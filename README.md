@@ -1,6 +1,6 @@
 # Voting Power By Demographic 
 
-This repository contains the data and analysis for the BuzzFeed News article, "[How The Electoral College Screws Hispanic And Asian Voters](https://www.buzzfeed.com/johntemplon/how-the-electoral-college-screws-hispanic-asian-vo)," published November 7, 2016.
+This repository contains the data and analysis for the BuzzFeed News article, "[How The Electoral College Screws Hispanic And Asian Voters](https://www.buzzfeed.com/johntemplon/how-the-electoral-college-screws-hispanic-and-asian-voters)," published November 7, 2016.
 
 ## Data
 
